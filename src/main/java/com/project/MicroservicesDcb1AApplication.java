@@ -1,4 +1,4 @@
-package com.project.microservicesdcb1a;
+package com.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MicroservicesDcb1AApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(MicroservicesDcb1AApplication.class, args);
+
     }
 
 }
